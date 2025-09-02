@@ -182,7 +182,7 @@ const Footer = () => {
                 Cookie Policy
               </a>
               <div className="text-gray-400">
-                GST: 07AABCU9603R1Z
+                GST: 33BKJPR6231E1Z9
               </div>
             </div>
           </div>

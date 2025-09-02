@@ -32,7 +32,7 @@ const Header = () => {
               <span>24/7 Customer Support</span>
             </span>
             <span className="text-orange-400">•</span>
-            <span>GST: 07AABCU9603R1Z</span>
+            <span>GST: 33BKJPR6231E1Z9</span>
           </div>
         </div>
       </div>

@@ -25,7 +25,7 @@ Thank you for your assistance.
 
 Best regards`;
         
-        const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=admin@cargofusion.in&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=ad.cargofusion@gmail.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         window.open(gmailUrl, '_blank');
         
         setIsTracking(false);

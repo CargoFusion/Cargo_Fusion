@@ -137,8 +137,8 @@ Please get back to me at your earliest convenience.`;
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
-                    <a href="mailto:admin@cargofusion.in" className="text-blue-500 hover:underline">
-                      admin@cargofusion.in
+                    <a href="mailto:ad.cargofusion@gmail.com" className="text-blue-500 hover:underline">
+                      ad.cargofusion@gmail.com
                     </a>
                   </div>
                 </div>

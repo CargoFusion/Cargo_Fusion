@@ -23,7 +23,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-2">
               <Mail size={14} />
-              <span>admin@cargofusion.in</span>
+              <span>ad.cargofusion@gmail.com</span>
             </div>
           </div>
           <div className="hidden md:flex items-center space-x-4">
